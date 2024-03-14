@@ -38,7 +38,7 @@ addrow<-function(x,y){
 }
 mapply(addrow,a,b)
 $A
-[1] 8
+[1] 9
 
 $B
 [1] 4
